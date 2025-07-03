@@ -65,12 +65,12 @@ The project is organized using modern C++ and OOP principles, with a clear separ
 |-- FMS.h, FMS.cpp          # Core system class that orchestrates the application
 |
 |-- data/
-|   |-- credentials.txt      # Stores user login credentials
-|   |-- menu.txt             # List of all food items, prices, and stock
-|   |-- recipes.txt          # Stores recipes corresponding to menu items
-|   |-- requests.txt         # Pending new item requests from Manager to Chef
-|   |-- sales.txt            # Log of all sales transactions
-|   |-- activity_log.txt     # Log of all user activities
+    |-- credentials.txt      # Stores user login credentials
+    |-- menu.txt             # List of all food items, prices, and stock
+    |-- recipes.txt          # Stores recipes corresponding to menu items
+    |-- requests.txt         # Pending new item requests from Manager to Chef
+    |-- sales.txt            # Log of all sales transactions
+    |-- activity_log.txt     # Log of all user activities
 |
 |-- README.md                # This file
 ```
