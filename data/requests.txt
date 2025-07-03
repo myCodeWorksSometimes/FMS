@@ -1,0 +1,2 @@
+Club Sandwich|450|20|Meal
+Fresh Lime|120|50|Drink

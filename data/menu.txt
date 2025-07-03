@@ -1,0 +1,8 @@
+1|Chicken Burger|350|25|Meal
+2|Beef Lasagna|550|15|Meal
+3|Grilled Steak|1200|10|Meal
+4|Mint Margarita|250|40|Drink
+5|Cola|100|100|Drink
+6|Lava Cake|400|18|Dessert
+7|Fish and Chips|650|4|Meal
+8|Special Soup|300|0|Meal

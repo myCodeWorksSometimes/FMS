@@ -1,0 +1,7 @@
+1|Chicken patty,Buns,Lettuce,Mayo|Grill patty, toast buns, and assemble.
+2|Pasta sheets,Ground beef,Tomato sauce,Cheese|Layer ingredients and bake for 45 minutes.
+3|Sirloin cut,Salt,Pepper,Olive oil|Season steak, grill to desired doneness.
+4|Mint leaves,Lemon juice,Sugar,Ice|Blend all ingredients until smooth.
+5|Cola syrup,Carbonated water|Mix syrup with carbonated water.
+6|Chocolate,Flour,Egg,Butter|Mix batter, bake for 12 minutes until center is molten.
+7|Cod fillet,Flour,Potatoes,Oil|Batter and fry fish, deep-fry the potatoes.
