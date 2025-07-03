@@ -57,19 +57,20 @@ The project is organized using modern C++ and OOP principles, with a clear separ
 |-- FileHandler.h, .cpp     # Handles all reading/writing to .txt files
 |
 |-- User.h, User.cpp        # Abstract base class for all employee roles
-|-- Admin.h, Admin.cpp       # Derived Admin class and its functionalities
-|-- Manager.h, Manager.cpp   # Derived Manager class and its functionalities
-|-- Chef.h, Chef.cpp         # Derived Chef class and its functionalities
-|-- SalesEmployee.h, .cpp    # Derived Sales Employee class and its functionalities
+|-- Admin.h, Admin.cpp      # Derived Admin class and its functionalities
+|-- Manager.h, Manager.cpp  # Derived Manager class and its functionalities
+|-- Chef.h, Chef.cpp        # Derived Chef class and its functionalities
+|-- SalesEmployee.h, .cpp   # Derived Sales Employee class and its functionalities
 |
-|-- FMS.h, FMS.cpp           # Core system class that orchestrates the application
+|-- FMS.h, FMS.cpp          # Core system class that orchestrates the application
 |
-|-- credentials.txt          # Stores user login credentials
-|-- menu.txt                 # List of all food items, prices, and stock
-|-- recipes.txt              # Stores recipes corresponding to menu items
-|-- requests.txt             # Pending new item requests from Manager to Chef
-|-- sales.txt                # Log of all sales transactions
-|-- activity_log.txt         # Log of all user activities
+|-- data/
+|   |-- credentials.txt      # Stores user login credentials
+|   |-- menu.txt             # List of all food items, prices, and stock
+|   |-- recipes.txt          # Stores recipes corresponding to menu items
+|   |-- requests.txt         # Pending new item requests from Manager to Chef
+|   |-- sales.txt            # Log of all sales transactions
+|   |-- activity_log.txt     # Log of all user activities
 |
 |-- README.md                # This file
 ```
